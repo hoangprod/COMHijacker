@@ -2,4 +2,4 @@
 Persistent through COM Hijacking
 
 
-https://gyazo.com/9289af4d2e6b129c2d91b2617f2a7528
+https://gyazo.com/77111404b1fb0463f674cfdf03f9abbc
